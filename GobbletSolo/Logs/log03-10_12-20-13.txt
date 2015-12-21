@@ -1,0 +1,20 @@
+03-10 12:20:13 Engine Gobblet Java Client v1.0 by RIT CS Department starting up
+03-10 12:20:13 Engine Loading player TXW6529
+03-10 12:20:13 Engine Loading reference player
+03-10 12:20:13 Engine Loaded 2 players
+03-10 12:20:13 Engine Calling init() for player 1
+03-10 12:20:13 Engine Calling init() for player 2
+03-10 12:20:13 Engine Getting preMove from list
+03-10 12:20:13 Engine Move is PlayerMove [playerId=1, stack=1, size=4, start=[-1, -1], end=[0, 3]]
+03-10 12:20:13 Engine Notifying player of last move
+03-10 12:20:13 Engine Error: Error in moveInfo
+03-10 12:20:23 Engine Error: Player timed out or raised an exception in moveInfo
+03-10 12:20:23 Engine Notifying player of last move
+03-10 12:20:23 -+-+-+-+-Part1Player PlayerMove(1,1,4,-1,-1,0,3)
+03-10 12:20:23 Engine Finished processing player 1's move
+03-10 12:20:23 Engine Game state according to player under test follows.
+03-10 12:20:23 Engine Correct game state follows.
+03-10 12:20:23 Engine Getting preMove from list
+03-10 12:20:23 Engine Move is PlayerMove [playerId=2, stack=1, size=4, start=[-1, -1], end=[0, 2]]
+03-10 12:20:23 Engine Notifying player of last move
+03-10 12:20:23 Engine Error: Error in moveInfo

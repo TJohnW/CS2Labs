@@ -1,0 +1,7 @@
+03-18 13:22:39 Engine Gobblet Java Client v1.0 by RIT CS Department starting up
+03-18 13:22:39 Engine Loading player TXW6529
+03-18 13:22:39 Engine Error: Failed to load player TXW6529
+03-18 13:22:39 Engine Loading reference player
+03-18 13:22:39 Engine Loaded 1 player
+03-18 13:22:39 Engine Calling init() for player 1
+03-18 13:22:39 Engine Game has ended

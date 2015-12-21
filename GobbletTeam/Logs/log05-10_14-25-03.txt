@@ -1,0 +1,47 @@
+05-10 14:25:03 Engine Gobblet Java Client v1.3c by RIT CS Department starting up
+05-10 14:25:12 Engine Loading player Milky
+05-10 14:25:12 Engine Loaded 2 players
+05-10 14:25:12 Engine Awaiting challenge from other players...
+05-10 14:25:12 Engine Calling init() for player 1
+05-10 14:25:12 Model  GUI accessible at:
+https://yendor.cs.rit.edu/~royale/gobblet/gameview/animations.500/public.096bf40a25657720246b0cf52d42e85a60157d0e536e6f087a206/gameid.333436/myplayer.1/
+05-10 14:25:12 Engine Processing move #1
+05-10 14:25:12 Engine Getting move from player 1
+05-10 14:25:14 Engine Validating move: PlayerMove [playerId=1, stack=1, size=4, start=[-1, -1], end=[0, 0]]
+05-10 14:25:14 Engine Move validated. Notifying other players
+05-10 14:25:14 Engine Notifying player 1 of last move
+05-10 14:25:15 Engine Finished processing player 1's move
+05-10 14:25:15 Engine Awaiting remote move #2
+05-10 14:25:17 Engine Downloaded remote move PlayerMove [playerId=2, stack=1, size=4, start=[-1, -1], end=[0, 1]]
+05-10 14:25:17 Engine Move validated. Notifying other players
+05-10 14:25:17 Engine Notifying player 1 of last move
+05-10 14:25:17 Engine Finished processing player 2's move
+05-10 14:25:17 Engine Processing move #3
+05-10 14:25:17 Engine Getting move from player 1
+05-10 14:25:19 Engine Validating move: PlayerMove [playerId=1, stack=2, size=4, start=[-1, -1], end=[1, 1]]
+05-10 14:25:19 Engine Move validated. Notifying other players
+05-10 14:25:19 Engine Notifying player 1 of last move
+05-10 14:25:19 Engine Finished processing player 1's move
+05-10 14:25:19 Engine Awaiting remote move #4
+05-10 14:25:22 Engine Downloaded remote move PlayerMove [playerId=2, stack=1, size=3, start=[-1, -1], end=[0, 2]]
+05-10 14:25:22 Engine Move validated. Notifying other players
+05-10 14:25:22 Engine Notifying player 1 of last move
+05-10 14:25:22 Engine Finished processing player 2's move
+05-10 14:25:22 Engine Processing move #5
+05-10 14:25:22 Engine Getting move from player 1
+05-10 14:25:23 Engine Validating move: PlayerMove [playerId=1, stack=3, size=4, start=[-1, -1], end=[2, 2]]
+05-10 14:25:23 Engine Move validated. Notifying other players
+05-10 14:25:23 Engine Notifying player 1 of last move
+05-10 14:25:23 Engine Finished processing player 1's move
+05-10 14:25:23 Engine Awaiting remote move #6
+05-10 14:25:26 Engine Downloaded remote move PlayerMove [playerId=2, stack=1, size=2, start=[-1, -1], end=[0, 3]]
+05-10 14:25:26 Engine Move validated. Notifying other players
+05-10 14:25:26 Engine Notifying player 1 of last move
+05-10 14:25:26 Engine Finished processing player 2's move
+05-10 14:25:26 Engine Processing move #7
+05-10 14:25:26 Engine Getting move from player 1
+05-10 14:25:27 Engine Validating move: PlayerMove [playerId=1, stack=1, size=3, start=[-1, -1], end=[3, 3]]
+05-10 14:25:27 Engine Move validated. Notifying other players
+05-10 14:25:27 Engine Notifying player 1 of last move
+05-10 14:25:27 Engine Finished processing player 1's move
+05-10 14:25:27 Engine Game has ended

@@ -1,0 +1,5 @@
+04-03 15:42:06 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
+04-03 15:42:06 Engine Loading player TXW6529
+04-03 15:42:06 Engine Error: java.lang.ClassNotFoundException: Players.TXW6529.TXW6529
+04-03 15:42:06 Engine Error: Failed to load player TXW6529
+04-03 15:42:06 Engine Error: No players were loaded

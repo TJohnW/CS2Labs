@@ -1,0 +1,4 @@
+04-14 11:05:08 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
+04-14 11:05:08 Engine Loading player TXW6529
+04-14 11:05:08 Engine Loaded 1 player
+04-14 11:05:09 Engine Awaiting challenge from other players...

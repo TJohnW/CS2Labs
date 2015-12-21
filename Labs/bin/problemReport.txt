@@ -1,0 +1,41 @@
+Java Questions for lab 1:
+
+Problem1.java:
+	This is a compile time error that occurs because you declare the class in the file as
+	a different name than the java file. For example, Problem1.java needs to have a class
+	declaration of public class Problem1 {}, not public class Problem {}
+	
+Problem2.java:
+	Compile time error, because the method .next() on a scanner object returns type String.
+	In the code they are trying to assign an integer to type String. In order to convert
+	an Integer to a string, Integer.parseInt(String s) could be used.
+	
+Problem3.java:
+	Run time error, because the java compiler notices you are trying to divide by 0
+	
+Problem4.java:
+	Compile time error, does not specify the type of y in the parameters.
+	
+Problem5.java:
+	If a method is declared to return a type of int, it MUST return a type of int.
+	In this case, if x happens to be greater than y the method does not return anything.
+	This is a compile time error.
+	
+Problem6.java:
+	Run time error, the ArrayList constructor used specifies an size of the ArrayList but
+	does not add anything to it, therefore there is no value at the index 0.
+	
+Problem7.java:
+	Compile time error, Characters in java are specified by single quotation marks, not
+	by double quotes. Strings are represented with double quotes like "a", chars as 'a'.
+	
+Problem8.java:
+	Compile time error, the variable j is never initialized before being used.
+
+Problem9.java:
+	Compile time error, 0.0 is interpreted as a double, to initialize a float 0.0f must be
+	used.
+	
+Problem10.java:
+	Run timer error, the string "Hello World" does not have a 12th index to be used in
+	substring.

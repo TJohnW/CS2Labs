@@ -1,0 +1,15 @@
+04-29 16:30:15 Engine Gobblet Java Client v1.2.1 by RIT CS Department starting up
+04-29 16:30:20 Engine You have chosen to be player 1.
+04-29 16:30:20 Engine Loading player TXW6529
+04-29 16:30:20 Engine Loaded 2 players
+04-29 16:30:20 Engine Awaiting challenge from other players...
+04-29 16:30:41 Engine Calling init() for player 1
+04-29 16:30:42 Model  GUI accessible at:
+https://yendor.cs.rit.edu/~royale/gobblet/gameview/animations.500/public.4c6c0ad71b86f18fef44f302e2338c45e79a2b8753600bdc815c8/gameid.58740/myplayer.1/
+04-29 16:30:42 Engine Processing move #1
+04-29 16:30:42 Engine Getting move from player 1
+04-29 16:30:44 Engine Validating move: PlayerMove [playerId=1, stack=1, size=4, start=[-1, -1], end=[0, 0]]
+04-29 16:30:44 Engine Move validated. Notifying other players
+04-29 16:30:44 Engine Notifying player 1 of last move
+04-29 16:30:44 Engine Finished processing player 1's move
+04-29 16:30:44 Engine Awaiting remote move #2

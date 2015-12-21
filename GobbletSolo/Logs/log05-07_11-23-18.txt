@@ -1,0 +1,2 @@
+05-07 11:23:18 Engine Gobblet Java Client v1.3 by RIT CS Department starting up
+05-07 11:23:18 Engine Error: Only one player can be specified in remote mode

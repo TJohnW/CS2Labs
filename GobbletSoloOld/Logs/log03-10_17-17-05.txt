@@ -1,0 +1,8 @@
+03-10 17:17:05 Engine Gobblet Java Client v1.0 by RIT CS Department starting up
+03-10 17:17:05 Engine Loading player TXW6529
+03-10 17:17:05 Engine Loading reference player
+03-10 17:17:05 Engine Loaded 2 players
+03-10 17:17:05 Engine Calling init() for player 1
+03-10 17:17:05 Engine Error: Invalidating player 1 due to error in init
+03-10 17:17:05 Engine Calling init() for player 2
+03-10 17:17:05 Engine Game has ended

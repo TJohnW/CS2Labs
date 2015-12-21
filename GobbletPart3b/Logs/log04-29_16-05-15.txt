@@ -1,0 +1,22 @@
+04-29 16:05:15 Engine Gobblet Java Client v1.2.1 by RIT CS Department starting up
+04-29 16:05:15 Engine Loading player TXW6529
+04-29 16:05:15 Engine Loading player TXW6529
+04-29 16:05:15 Engine Loaded 2 players
+04-29 16:05:16 Engine Calling init() for player 1
+04-29 16:05:16 Engine Calling init() for player 2
+04-29 16:05:16 Model  GUI accessible at:
+https://yendor.cs.rit.edu/~royale/gobblet/gameview/animations.500/public.4bef2cd097992fc5648947344711c59f3fe32fde536005fc1e258/gameid.58217/myplayer.0/
+04-29 16:05:16 Engine Processing move #1
+04-29 16:05:16 Engine Getting move from player 1
+04-29 16:05:16 Engine Error: Error in getMove
+04-29 16:05:26 Engine Error: Player 1 timed out or returned no move.
+04-29 16:05:26 Engine Invalidating player 1
+04-29 16:05:26 Engine Notifying player 2 that player 1 was invalidated
+04-29 16:05:26 Engine Finished processing player 1's move
+04-29 16:05:26 Engine Processing move #1
+04-29 16:05:26 Engine Getting move from player 2
+04-29 16:05:26 Engine Error: Error in getMove
+04-29 16:05:36 Engine Error: Player 2 timed out or returned no move.
+04-29 16:05:36 Engine Invalidating player 2
+04-29 16:05:37 Engine Finished processing player 2's move
+04-29 16:05:37 Engine Game has ended

@@ -1,0 +1,7 @@
+05-10 14:21:47 Engine Gobblet Java Client v1.3c by RIT CS Department starting up
+05-10 14:21:47 Engine Loading player Milky
+05-10 14:21:47 Engine Loading player ADEEVER
+05-10 14:21:47 Engine Error: java.lang.ClassNotFoundException: Players.ADEEVER.ADEEVER
+05-10 14:21:47 Engine Error: Failed to load player ADEEVER
+05-10 14:21:47 Engine Loaded 1 player
+05-10 14:21:48 Engine Awaiting challenge from other players...

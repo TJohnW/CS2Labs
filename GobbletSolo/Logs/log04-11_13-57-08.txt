@@ -1,0 +1,121 @@
+04-11 13:57:08 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
+04-11 13:57:08 Engine Loading player Human
+04-11 13:57:08 Engine Loading player Human
+04-11 13:57:08 Engine Loaded 2 players
+04-11 13:57:09 Engine Calling init() for player 1
+04-11 13:57:09 Engine Calling init() for player 2
+04-11 13:57:09 Model  GUI accessible at:
+https://yendor.cs.rit.edu/~royale/gobblet/gameview/animations.500/public.f47003038f73928d98018405dce31f2230564ccb53482cf50b49f/gameid.5215/myplayer.0/
+04-11 13:57:09 Engine Processing human move #1
+04-11 13:57:09 Engine Waiting for human move...
+04-11 13:57:15 Engine Downloaded human move
+04-11 13:57:15 Engine Move validated. Notifying other players
+04-11 13:57:15 Engine Notifying player 1 of last move
+04-11 13:57:15 Engine Notifying player 2 of last move
+04-11 13:57:15 Engine Finished processing player 1's move
+04-11 13:57:15 Engine Processing human move #2
+04-11 13:57:15 Engine Waiting for human move...
+04-11 13:57:20 Engine Downloaded human move
+04-11 13:57:20 Engine Move validated. Notifying other players
+04-11 13:57:20 Engine Notifying player 1 of last move
+04-11 13:57:20 Engine Notifying player 2 of last move
+04-11 13:57:20 Engine Finished processing player 2's move
+04-11 13:57:20 Engine Processing human move #3
+04-11 13:57:20 Engine Waiting for human move...
+04-11 13:57:22 Engine Downloaded human move
+04-11 13:57:22 Engine Move validated. Notifying other players
+04-11 13:57:22 Engine Notifying player 1 of last move
+04-11 13:57:22 Engine Notifying player 2 of last move
+04-11 13:57:22 Engine Finished processing player 1's move
+04-11 13:57:22 Engine Processing human move #4
+04-11 13:57:22 Engine Waiting for human move...
+04-11 13:57:30 Engine Downloaded human move
+04-11 13:57:30 Engine Move validated. Notifying other players
+04-11 13:57:30 Engine Notifying player 1 of last move
+04-11 13:57:30 Engine Notifying player 2 of last move
+04-11 13:57:30 Engine Finished processing player 2's move
+04-11 13:57:30 Engine Processing human move #5
+04-11 13:57:30 Engine Waiting for human move...
+04-11 13:57:32 Engine Downloaded human move
+04-11 13:57:32 Engine Move validated. Notifying other players
+04-11 13:57:32 Engine Notifying player 1 of last move
+04-11 13:57:32 Engine Notifying player 2 of last move
+04-11 13:57:32 Engine Finished processing player 1's move
+04-11 13:57:32 Engine Processing human move #6
+04-11 13:57:32 Engine Waiting for human move...
+04-11 13:57:44 Engine Downloaded human move
+04-11 13:57:44 Engine Move validated. Notifying other players
+04-11 13:57:44 Engine Notifying player 1 of last move
+04-11 13:57:44 Engine Notifying player 2 of last move
+04-11 13:57:44 Engine Finished processing player 2's move
+04-11 13:57:44 Engine Processing human move #7
+04-11 13:57:44 Engine Waiting for human move...
+04-11 13:57:56 Engine Downloaded human move
+04-11 13:57:56 Engine Move validated. Notifying other players
+04-11 13:57:56 Engine Notifying player 1 of last move
+04-11 13:57:56 Engine Notifying player 2 of last move
+04-11 13:57:56 Engine Finished processing player 1's move
+04-11 13:57:56 Engine Processing human move #8
+04-11 13:57:56 Engine Waiting for human move...
+04-11 13:58:00 Engine Downloaded human move
+04-11 13:58:00 Engine Move validated. Notifying other players
+04-11 13:58:00 Engine Notifying player 1 of last move
+04-11 13:58:00 Engine Notifying player 2 of last move
+04-11 13:58:00 Engine Finished processing player 2's move
+04-11 13:58:00 Engine Processing human move #9
+04-11 13:58:00 Engine Waiting for human move...
+04-11 13:58:04 Engine Downloaded human move
+04-11 13:58:04 Engine Move validated. Notifying other players
+04-11 13:58:04 Engine Notifying player 1 of last move
+04-11 13:58:04 Engine Notifying player 2 of last move
+04-11 13:58:04 Engine Finished processing player 1's move
+04-11 13:58:04 Engine Processing human move #10
+04-11 13:58:04 Engine Waiting for human move...
+04-11 13:58:11 Engine Downloaded human move
+04-11 13:58:11 Engine Move validated. Notifying other players
+04-11 13:58:11 Engine Notifying player 1 of last move
+04-11 13:58:11 Engine Notifying player 2 of last move
+04-11 13:58:11 Engine Finished processing player 2's move
+04-11 13:58:11 Engine Processing human move #11
+04-11 13:58:11 Engine Waiting for human move...
+04-11 13:58:13 Engine Downloaded human move
+04-11 13:58:13 Engine Move validated. Notifying other players
+04-11 13:58:13 Engine Notifying player 1 of last move
+04-11 13:58:13 Engine Notifying player 2 of last move
+04-11 13:58:13 Engine Finished processing player 1's move
+04-11 13:58:13 Engine Processing human move #12
+04-11 13:58:13 Engine Waiting for human move...
+04-11 13:58:22 Engine Downloaded human move
+04-11 13:58:22 Engine Move validated. Notifying other players
+04-11 13:58:22 Engine Notifying player 1 of last move
+04-11 13:58:22 Engine Notifying player 2 of last move
+04-11 13:58:22 Engine Finished processing player 2's move
+04-11 13:58:22 Engine Processing human move #13
+04-11 13:58:22 Engine Waiting for human move...
+04-11 13:58:25 Engine Downloaded human move
+04-11 13:58:25 Engine Move validated. Notifying other players
+04-11 13:58:25 Engine Notifying player 1 of last move
+04-11 13:58:25 Engine Notifying player 2 of last move
+04-11 13:58:25 Engine Finished processing player 1's move
+04-11 13:58:25 Engine Processing human move #14
+04-11 13:58:25 Engine Waiting for human move...
+04-11 13:58:29 Engine Downloaded human move
+04-11 13:58:29 Engine Move validated. Notifying other players
+04-11 13:58:29 Engine Notifying player 1 of last move
+04-11 13:58:29 Engine Notifying player 2 of last move
+04-11 13:58:29 Engine Finished processing player 2's move
+04-11 13:58:29 Engine Processing human move #15
+04-11 13:58:29 Engine Waiting for human move...
+04-11 13:58:51 Engine Downloaded human move
+04-11 13:58:51 Engine Move validated. Notifying other players
+04-11 13:58:51 Engine Notifying player 1 of last move
+04-11 13:58:51 Engine Notifying player 2 of last move
+04-11 13:58:51 Engine Finished processing player 1's move
+04-11 13:58:51 Engine Processing human move #16
+04-11 13:58:51 Engine Waiting for human move...
+04-11 13:58:53 Engine Downloaded human move
+04-11 13:58:53 Engine Move validated. Notifying other players
+04-11 13:58:53 Engine Notifying player 1 of last move
+04-11 13:58:53 Engine Notifying player 2 of last move
+04-11 13:58:53 Engine Finished processing player 2's move
+04-11 13:58:53 Engine Game has ended

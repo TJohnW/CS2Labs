@@ -1,0 +1,3 @@
+05-07 11:26:47 Engine Gobblet Java Client v1.3 by RIT CS Department starting up
+05-07 11:26:52 Engine You have chosen to be player 1.
+05-07 11:26:52 Engine Loading player TXW6529

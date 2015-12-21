@@ -1,0 +1,5 @@
+05-07 11:48:33 Engine Gobblet Java Client v1.3 by RIT CS Department starting up
+05-07 11:49:39 Engine You have chosen to be player 1.
+05-07 11:49:39 Engine Loading player Milky
+05-07 11:49:39 Engine Loaded 2 players
+05-07 11:49:40 Engine Awaiting challenge from other players...

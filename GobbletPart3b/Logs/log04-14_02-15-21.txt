@@ -1,0 +1,20 @@
+04-14 02:15:21 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
+04-14 02:15:21 Engine Loading player RandomPlayer
+04-14 02:15:21 Engine Loading player TXW6529
+04-14 02:15:21 Engine Loaded 2 players
+04-14 02:15:22 Engine Calling init() for player 1
+04-14 02:15:22 Engine Calling init() for player 2
+04-14 02:15:22 Model  GUI accessible at:
+https://yendor.cs.rit.edu/~royale/gobblet/gameview/animations.500/public.df3469d24978239c09c054e1d8436d4dc18dd0d0534b7cfa2d0b4/gameid.9108/myplayer.0/
+04-14 02:15:22 Engine Processing move #1
+04-14 02:15:22 Engine Getting move from player 1
+04-14 02:15:22 -+-+-+-+-Easy Entering move( )
+04-14 02:15:22 -+-+-+-+-Easy Trying from a stash.
+04-14 02:15:22 Engine Validating move: PlayerMove [playerId=1, stack=2, size=4, start=[-1, -1], end=[0, 0]]
+04-14 02:15:22 Engine Move validated. Notifying other players
+04-14 02:15:22 Engine Notifying player 1 of last move
+04-14 02:15:22 -+-+-+-+-Easy PlayerMove(1,2,4,-1,-1,0,0)
+04-14 02:15:22 Engine Notifying player 2 of last move
+04-14 02:15:22 Engine Finished processing player 1's move
+04-14 02:15:22 Engine Processing move #2
+04-14 02:15:22 Engine Getting move from player 2

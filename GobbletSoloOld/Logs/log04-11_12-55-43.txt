@@ -1,0 +1,8 @@
+04-11 12:55:43 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
+04-11 12:55:43 Engine Loading player Human
+04-11 12:55:43 Engine Loading player KingsLegion
+04-11 12:55:43 Engine Error: java.lang.ClassNotFoundException: Players.KingsLegion.KingsLegion
+04-11 12:55:43 Engine Error: Failed to load player KingsLegion
+04-11 12:55:43 Engine Loaded 1 player
+04-11 12:55:44 Engine Awaiting challenge from other players...
+04-11 13:25:45 Engine Error: Error during game initialization

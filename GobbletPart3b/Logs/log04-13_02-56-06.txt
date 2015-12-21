@@ -1,0 +1,541 @@
+04-13 02:56:06 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
+04-13 02:56:06 Engine Loading player TXW6529
+04-13 02:56:06 Engine Loading player TXW6529
+04-13 02:56:06 Engine Loaded 2 players
+04-13 02:56:07 Engine Calling init() for player 1
+04-13 02:56:07 Engine Calling init() for player 2
+04-13 02:56:07 Model  GUI accessible at:
+https://yendor.cs.rit.edu/~royale/gobblet/gameview/animations.500/public.52c888e8fa6b394919733c4ed974f4467de37477534a350728cca/gameid.6632/myplayer.0/
+04-13 02:56:07 Engine Processing move #1
+04-13 02:56:07 Engine Getting move from player 1
+04-13 02:56:07 Engine Validating move: PlayerMove [playerId=1, stack=2, size=4, start=[-1, -1], end=[3, 3]]
+04-13 02:56:07 Engine Move validated. Notifying other players
+04-13 02:56:07 Engine Notifying player 1 of last move
+04-13 02:56:07 Engine Notifying player 2 of last move
+04-13 02:56:07 Engine Finished processing player 1's move
+04-13 02:56:07 Engine Processing move #2
+04-13 02:56:07 Engine Getting move from player 2
+04-13 02:56:07 Engine Validating move: PlayerMove [playerId=2, stack=2, size=4, start=[-1, -1], end=[2, 1]]
+04-13 02:56:07 Engine Move validated. Notifying other players
+04-13 02:56:07 Engine Notifying player 1 of last move
+04-13 02:56:07 Engine Notifying player 2 of last move
+04-13 02:56:07 Engine Finished processing player 2's move
+04-13 02:56:07 Engine Processing move #3
+04-13 02:56:07 Engine Getting move from player 1
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=1, stack=3, size=4, start=[-1, -1], end=[3, 0]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 1's move
+04-13 02:56:08 Engine Processing move #4
+04-13 02:56:08 Engine Getting move from player 2
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=2, stack=1, size=4, start=[-1, -1], end=[1, 1]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 2's move
+04-13 02:56:08 Engine Processing move #5
+04-13 02:56:08 Engine Getting move from player 1
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=1, stack=1, size=4, start=[-1, -1], end=[0, 3]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 1's move
+04-13 02:56:08 Engine Processing move #6
+04-13 02:56:08 Engine Getting move from player 2
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=2, stack=3, size=4, start=[-1, -1], end=[0, 0]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 2's move
+04-13 02:56:08 Engine Processing move #7
+04-13 02:56:08 Engine Getting move from player 1
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=1, stack=3, size=3, start=[-1, -1], end=[1, 2]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 1's move
+04-13 02:56:08 Engine Processing move #8
+04-13 02:56:08 Engine Getting move from player 2
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=2, stack=3, size=3, start=[-1, -1], end=[2, 2]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 2's move
+04-13 02:56:08 Engine Processing move #9
+04-13 02:56:08 Engine Getting move from player 1
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=1, stack=0, size=4, start=[3, 0], end=[2, 2]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 1's move
+04-13 02:56:08 Engine Processing move #10
+04-13 02:56:08 Engine Getting move from player 2
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=2, stack=2, size=3, start=[-1, -1], end=[3, 0]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 2's move
+04-13 02:56:08 Engine Processing move #11
+04-13 02:56:08 Engine Getting move from player 1
+04-13 02:56:08 Engine Validating move: PlayerMove [playerId=1, stack=0, size=4, start=[0, 3], end=[3, 0]]
+04-13 02:56:08 Engine Move validated. Notifying other players
+04-13 02:56:08 Engine Notifying player 1 of last move
+04-13 02:56:08 Engine Notifying player 2 of last move
+04-13 02:56:08 Engine Finished processing player 1's move
+04-13 02:56:08 Engine Processing move #12
+04-13 02:56:08 Engine Getting move from player 2
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=2, stack=0, size=4, start=[1, 1], end=[1, 2]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 2's move
+04-13 02:56:09 Engine Processing move #13
+04-13 02:56:09 Engine Getting move from player 1
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=1, stack=1, size=3, start=[-1, -1], end=[0, 3]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 1's move
+04-13 02:56:09 Engine Processing move #14
+04-13 02:56:09 Engine Getting move from player 2
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=2, stack=1, size=3, start=[-1, -1], end=[1, 1]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 2's move
+04-13 02:56:09 Engine Processing move #15
+04-13 02:56:09 Engine Getting move from player 1
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=1, stack=0, size=4, start=[3, 3], end=[1, 1]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 1's move
+04-13 02:56:09 Engine Processing move #16
+04-13 02:56:09 Engine Getting move from player 2
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=2, stack=0, size=4, start=[0, 0], end=[0, 3]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 2's move
+04-13 02:56:09 Engine Processing move #17
+04-13 02:56:09 Engine Getting move from player 1
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=1, stack=2, size=3, start=[-1, -1], end=[0, 0]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 1's move
+04-13 02:56:09 Engine Processing move #18
+04-13 02:56:09 Engine Getting move from player 2
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=2, stack=0, size=4, start=[2, 1], end=[0, 0]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 2's move
+04-13 02:56:09 Engine Processing move #19
+04-13 02:56:09 Engine Getting move from player 1
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=1, stack=3, size=2, start=[-1, -1], end=[2, 1]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 1's move
+04-13 02:56:09 Engine Processing move #20
+04-13 02:56:09 Engine Getting move from player 2
+04-13 02:56:09 Engine Validating move: PlayerMove [playerId=2, stack=3, size=2, start=[-1, -1], end=[3, 3]]
+04-13 02:56:09 Engine Move validated. Notifying other players
+04-13 02:56:09 Engine Notifying player 1 of last move
+04-13 02:56:09 Engine Notifying player 2 of last move
+04-13 02:56:09 Engine Finished processing player 2's move
+04-13 02:56:09 Engine Processing move #21
+04-13 02:56:09 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=1, size=2, start=[-1, -1], end=[1, 0]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 1's move
+04-13 02:56:10 Engine Processing move #22
+04-13 02:56:10 Engine Getting move from player 2
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=2, stack=2, size=2, start=[-1, -1], end=[2, 0]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 2's move
+04-13 02:56:10 Engine Processing move #23
+04-13 02:56:10 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=2, size=2, start=[-1, -1], end=[3, 2]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 1's move
+04-13 02:56:10 Engine Processing move #24
+04-13 02:56:10 Engine Getting move from player 2
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=2, stack=1, size=2, start=[-1, -1], end=[0, 2]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 2's move
+04-13 02:56:10 Engine Processing move #25
+04-13 02:56:10 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=0, size=4, start=[2, 2], end=[0, 2]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 1's move
+04-13 02:56:10 Engine Processing move #26
+04-13 02:56:10 Engine Getting move from player 2
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=2, stack=0, size=3, start=[2, 2], end=[2, 1]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 2's move
+04-13 02:56:10 Engine Processing move #27
+04-13 02:56:10 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=2, size=1, start=[-1, -1], end=[2, 2]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 1's move
+04-13 02:56:10 Engine Processing move #28
+04-13 02:56:10 Engine Getting move from player 2
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 0], end=[2, 2]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 2's move
+04-13 02:56:10 Engine Processing move #29
+04-13 02:56:10 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=1, size=1, start=[-1, -1], end=[2, 3]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 1's move
+04-13 02:56:10 Engine Processing move #30
+04-13 02:56:10 Engine Getting move from player 2
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=2, stack=3, size=1, start=[-1, -1], end=[2, 0]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 2's move
+04-13 02:56:10 Engine Processing move #31
+04-13 02:56:10 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=0, size=2, start=[1, 0], end=[2, 0]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 1's move
+04-13 02:56:10 Engine Processing move #32
+04-13 02:56:10 Engine Getting move from player 2
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=2, stack=1, size=1, start=[-1, -1], end=[0, 1]]
+04-13 02:56:10 Engine Move validated. Notifying other players
+04-13 02:56:10 Engine Notifying player 1 of last move
+04-13 02:56:10 Engine Notifying player 2 of last move
+04-13 02:56:10 Engine Finished processing player 2's move
+04-13 02:56:10 Engine Processing move #33
+04-13 02:56:10 Engine Getting move from player 1
+04-13 02:56:10 Engine Validating move: PlayerMove [playerId=1, stack=3, size=1, start=[-1, -1], end=[3, 1]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 1's move
+04-13 02:56:11 Engine Processing move #34
+04-13 02:56:11 Engine Getting move from player 2
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[3, 3], end=[3, 1]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 2's move
+04-13 02:56:11 Engine Processing move #35
+04-13 02:56:11 Engine Getting move from player 1
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=1, stack=0, size=2, start=[3, 2], end=[0, 1]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 1's move
+04-13 02:56:11 Engine Processing move #36
+04-13 02:56:11 Engine Getting move from player 2
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=2, stack=2, size=1, start=[-1, -1], end=[3, 3]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 2's move
+04-13 02:56:11 Engine Processing move #37
+04-13 02:56:11 Engine Getting move from player 1
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=1, stack=0, size=2, start=[0, 1], end=[3, 3]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 1's move
+04-13 02:56:11 Engine Processing move #38
+04-13 02:56:11 Engine Getting move from player 2
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=2, stack=0, size=1, start=[0, 1], end=[1, 0]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 2's move
+04-13 02:56:11 Engine Processing move #39
+04-13 02:56:11 Engine Getting move from player 1
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 3], end=[1, 3]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 1's move
+04-13 02:56:11 Engine Processing move #40
+04-13 02:56:11 Engine Getting move from player 2
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=2, stack=0, size=1, start=[1, 0], end=[3, 2]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 2's move
+04-13 02:56:11 Engine Processing move #41
+04-13 02:56:11 Engine Getting move from player 1
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[1, 3], end=[1, 0]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 1's move
+04-13 02:56:11 Engine Processing move #42
+04-13 02:56:11 Engine Getting move from player 2
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=2, stack=0, size=3, start=[2, 1], end=[3, 3]]
+04-13 02:56:11 Engine Move validated. Notifying other players
+04-13 02:56:11 Engine Notifying player 1 of last move
+04-13 02:56:11 Engine Notifying player 2 of last move
+04-13 02:56:11 Engine Finished processing player 2's move
+04-13 02:56:11 Engine Processing move #43
+04-13 02:56:11 Engine Getting move from player 1
+04-13 02:56:11 Engine Validating move: PlayerMove [playerId=1, stack=0, size=2, start=[2, 1], end=[3, 2]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #44
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 2], end=[1, 0]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #45
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 2], end=[2, 1]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #46
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[1, 0], end=[2, 1]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #47
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[1, 0], end=[2, 2]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #48
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 1], end=[2, 2]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #49
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 1], end=[1, 0]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #50
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 2], end=[1, 0]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #51
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 2], end=[2, 1]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #52
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[1, 0], end=[2, 1]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #53
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[1, 0], end=[2, 2]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #54
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 1], end=[2, 2]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #55
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 1], end=[1, 0]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #56
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 2], end=[1, 0]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #57
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 2], end=[2, 1]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #58
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[1, 0], end=[2, 1]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 2's move
+04-13 02:56:12 Engine Processing move #59
+04-13 02:56:12 Engine Getting move from player 1
+04-13 02:56:12 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[1, 0], end=[2, 2]]
+04-13 02:56:12 Engine Move validated. Notifying other players
+04-13 02:56:12 Engine Notifying player 1 of last move
+04-13 02:56:12 Engine Notifying player 2 of last move
+04-13 02:56:12 Engine Finished processing player 1's move
+04-13 02:56:12 Engine Processing move #60
+04-13 02:56:12 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 1], end=[2, 2]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #61
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 1], end=[1, 0]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #62
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 2], end=[1, 0]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #63
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 2], end=[2, 1]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #64
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[1, 0], end=[2, 1]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #65
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[1, 0], end=[2, 2]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #66
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 1], end=[2, 2]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #67
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 1], end=[0, 1]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #68
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 2], end=[0, 1]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #69
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 2], end=[2, 1]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #70
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[0, 1], end=[2, 1]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #71
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[0, 1], end=[2, 2]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #72
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 1], end=[2, 2]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 2's move
+04-13 02:56:13 Engine Processing move #73
+04-13 02:56:13 Engine Getting move from player 1
+04-13 02:56:13 Engine Validating move: PlayerMove [playerId=1, stack=0, size=1, start=[2, 1], end=[1, 3]]
+04-13 02:56:13 Engine Move validated. Notifying other players
+04-13 02:56:13 Engine Notifying player 1 of last move
+04-13 02:56:13 Engine Notifying player 2 of last move
+04-13 02:56:13 Engine Finished processing player 1's move
+04-13 02:56:13 Engine Processing move #74
+04-13 02:56:13 Engine Getting move from player 2
+04-13 02:56:14 Engine Validating move: PlayerMove [playerId=2, stack=0, size=2, start=[2, 2], end=[1, 3]]
+04-13 02:56:14 Engine Move validated. Notifying other players
+04-13 02:56:14 Engine Notifying player 1 of last move
+04-13 02:56:14 Engine Notifying player 2 of last move
+04-13 02:56:14 Engine Finished processing player 2's move
+04-13 02:56:14 Engine Processing move #75
+04-13 02:56:14 Engine Getting move from player 1
+04-13 02:56:14 Engine Validating move: PlayerMove [playerId=1, stack=0, size=4, start=[0, 2], end=[0, 1]]
+04-13 02:56:14 Engine Move validated. Notifying other players
+04-13 02:56:14 Engine Notifying player 1 of last move
+04-13 02:56:14 Engine Notifying player 2 of last move
+04-13 02:56:14 Engine Finished processing player 1's move
+04-13 02:56:14 Engine Processing move #76
+04-13 02:56:14 Engine Getting move from player 2
+04-13 02:56:14 Engine Validating move: PlayerMove [playerId=2, stack=0, size=4, start=[1, 2], end=[2, 3]]
+04-13 02:56:14 Engine Move validated. Notifying other players
+04-13 02:56:14 Engine Notifying player 1 of last move
+04-13 02:56:14 Engine Notifying player 2 of last move
+04-13 02:56:14 Engine Finished processing player 2's move
+04-13 02:56:14 Engine Game has ended
